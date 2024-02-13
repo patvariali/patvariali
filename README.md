@@ -10,15 +10,19 @@ I'm a️ QA Engineer (bug 🔎 <img src="https://s5.ezgif.com/tmp/ezgif-5-0e3fb9
 * 🌍  I'm based in Minneapolis
 * ✉️  You can contact me at [patvariali2@gmail.com](mailto:patvariali2@gmail.com)
 
-## My best friends:
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
-Also:
-<br>
-* Selenium, Cucumber, TestNG, JUnit, Allure
-<br>
-* Postman, RestAssured, Jenkins
+### My best friends:
+![Java](https://img.shields.io/badge/Java-f7fafa?style=for-the-badge&logo=OpenJDK&logoColor=000000)
+![JUnit](https://img.shields.io/badge/JUnit-f7fafa?style=for-the-badge&logo=junit5&logoColor=000000)
+![Maven](https://img.shields.io/badge/Maven-f7fafa?style=for-the-badge&logo=apachemaven&logoColor=000000)
+![Selenium](https://img.shields.io/badge/Selenium-f7fafa?style=for-the-badge&logo=selenium&logoColor=000000)
+![Selenide](https://img.shields.io/badge/Selenide-f7fafa?style=for-the-badge&logoColor=000000)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-f7fafa?style=for-the-badge&logoColor=000000)
+![Cucumber](https://img.shields.io/badge/Cucumber-f7fafa?style=for-the-badge&logo=cucumber&logoColor=000000)
+![Spring](https://img.shields.io/badge/Spring-f7fafa?style=for-the-badge&logo=spring&logoColor=000000)
+![MS_SQL](https://img.shields.io/badge/MS%20SQL-f7fafa?style=for-the-badge&logo=microsoftsqlserver&logoColor=000000)
+![Jenkins](https://img.shields.io/badge/Jenkins-f7fafa?style=for-the-badge&logo=jenkins&logoColor=000000)
+![Kafka](https://img.shields.io/badge/Kafka-f7fafa?style=for-the-badge&logo=apachekafka&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-f7fafa?style=for-the-badge&logo=docker&logoColor=000000)
 
 ### Socials
 
