@@ -1,9 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Patvariㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 ===================================================================================================================================
 
-<p>I'm a️ QA Engineer (bug 🔎 <img src="https://s5.ezgif.com/tmp/ezgif-5-0e3fb9ed8d.gif" width="20" height="15"/> hunter)  who loves making sure websites and apps work just right! 💻 I've been doing this for more than 5 years and I've gotten pretty good at it. I know all about testing software and making sure it works smoothly. Let's make your apps awesome together! 🚀</p>
+I'm a️ QA Engineer (bug 🔎 <img src="https://s5.ezgif.com/tmp/ezgif-5-0e3fb9ed8d.gif" width="20" height="15"/> hunter) who's all about making sure websites and apps run smoothly 💻 
+<br>Nothing beats the thrill of coding and diving into new technologies; it's like unlocking a treasure trove of endless possibilities! 
+<br>
+<b>Bugs give me the heebie-jeebies, but automation? That's my happy place😌<b>
 
-* 🌍  I'm based in US
+
+* 🌍  I'm based in Minneapolis
 * ✉️  You can contact me at [patvariali2@gmail.com](mailto:patvariali2@gmail.com)
 
 ## My best friends:
