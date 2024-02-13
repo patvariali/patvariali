@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Patvariㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Patvariㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![visitors](https://visitor-badge.laobi.icu/badge?page_id=patvariali)
 ===================================================================================================================================
 
 I'm a️ QA Engineer (bug 🔎 <img src="https://s5.ezgif.com/tmp/ezgif-5-0e3fb9ed8d.gif" width="20" height="15"/> hunter) who's all about making sure websites and apps run smoothly 💻 
