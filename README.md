@@ -32,7 +32,7 @@ I'm a️ QA Engineer (bug 🔎 <img src="https://s5.ezgif.com/tmp/ezgif-5-0e3fb9
 
 <p align="left"> <a href="https://www.linkedin.com/in/ali-patvari-3794b813a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## 💡 Portfolio:
+## 💡 Automation frameworks:
 
 - [Web-Framework](https://github.com/patvariali/Selenium_Junit5_Cucumber)(Java, Cucumber, Junite5, Selenium, Maven, Allure)
 - [Backend-testing](): (*under construction)
