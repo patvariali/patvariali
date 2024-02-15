@@ -30,8 +30,8 @@ I'm a️ QA Engineer (bug 🔎 <img src="https://s5.ezgif.com/tmp/ezgif-5-0e3fb9
 
 ## 💡 Portfolio:
 
-- [Web-Framework](): (*under construction)
+- [Web-Framework](https://github.com/patvariali/Selenium_Junit5_Cucumber) Java, Cucumber, Junite5, Selenium, Maven, Allure
 - [Backend-testing](): (*under construction)
 - [Mobile-testing](): (*under construction)
 
-[![Codewars Badge](https://www.codewars.com/users/patvariali/badges/large)](https://www.codewars.com/users/dhanushka)
+[![Codewars Badge](https://www.codewars.com/users/patvariali/badges/large)](https://www.codewars.com/users/patvariali)
