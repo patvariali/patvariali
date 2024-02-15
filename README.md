@@ -10,6 +10,10 @@ I'm a️ QA Engineer (bug 🔎 <img src="https://s5.ezgif.com/tmp/ezgif-5-0e3fb9
 * 🌍  I'm based in Minneapolis
 * ✉️  You can contact me at [patvariali2@gmail.com](mailto:patvariali2@gmail.com)
 
+<p align="center">
+ <img width="800" src="assets/github-snake.svg" alt="snake"/>
+</p>  
+
 ### My best friends:
 ![Java](https://img.shields.io/badge/Java-f7fafa?style=for-the-badge&logo=OpenJDK&logoColor=000000)
 ![JUnit](https://img.shields.io/badge/JUnit-f7fafa?style=for-the-badge&logo=junit5&logoColor=000000)
