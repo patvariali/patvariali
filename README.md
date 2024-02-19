@@ -34,7 +34,7 @@ I'm a️ QA Engineer (bug 🔎 <img src="assets/buggif.gif" width="27" height="1
 
 ## 💡 Automation frameworks:
 
-- [Web-Framework](https://github.com/patvariali/Selenium_Junit5_Cucumber)(Java, Cucumber, Junite5, Selenium, Maven, Allure)
+- [Web-Framework](https://github.com/patvariali/Selenium_Junit5_Cucumber_Example.git)(Java, Cucumber, Junite5, Selenium, Maven, Allure with github actions, Jenkins and Selenoid for CI/CD)
 - [Backend-testing](): (*under construction)
 - [Mobile-testing](): (*under construction)
 
