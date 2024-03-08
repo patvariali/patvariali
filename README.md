@@ -35,7 +35,7 @@ I'm a️ QA Engineer (bug 🔎 <img src="assets/buggif.gif" width="27" height="1
 ## 💡 Automation frameworks:
 
 - [Web-Framework](https://github.com/patvariali/Selenium_Junit5_Cucumber_Example.git)(Java, Cucumber, Junite5, Selenium, Maven, Allure with github actions, Jenkins and Selenoid for CI/CD)
-- [Backend-testing](): (*under construction)
+- [Backend-testing](https://github.com/patvariali/Rest_Beckend_API)(Small rest api with few endpoints. Testing them using RestAssured library with POJO approach)
 - [Mobile-testing](): (*under construction)
 
 [![Codewars Badge](https://www.codewars.com/users/patvariali/badges/large)](https://www.codewars.com/users/patvariali)
